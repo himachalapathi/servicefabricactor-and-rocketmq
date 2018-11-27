@@ -1,0 +1,48 @@
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csprojAssemblyReference.cache
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.deps.json
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.json
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.dev.json
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.pdb
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.pdb
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.pdb
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CopyComplete
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.dll
+D:\C#pro\servicefab_demo1\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.pdb
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.deps.json
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.json
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.dev.json
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.dll
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.pdb
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.dll
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.dll
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.pdb
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.pdb
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csprojAssemblyReference.cache
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfoInputs.cache
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfo.cs
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CopyComplete
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.dll
+C:\Users\Jaya Chandra\Desktop\New folder\angmat_actor-master\New folder\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.pdb
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.deps.json
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.json
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.runtimeconfig.dev.json
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.dll
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\TestClient.pdb
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.dll
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.dll
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Game.Interfaces.pdb
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\bin\Debug\netcoreapp2.1\Player.Interfaces.pdb
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csprojAssemblyReference.cache
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CoreCompileInputs.cache
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfoInputs.cache
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.AssemblyInfo.cs
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.csproj.CopyComplete
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.dll
+F:\himachalapathireddy\ActorTicTacToeApplication\TestClient\obj\Debug\netcoreapp2.1\TestClient.pdb
